@@ -1,0 +1,4 @@
+cpt
+===
+
+CPT as Plugin
