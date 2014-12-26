@@ -11,10 +11,10 @@ class WhatzitPostType {
 			array(
 				'labels'			=> array(
 					'name'			=> __('Whatzits'),
-					'singular_name'	=> __('Whatzit')
+					'singular_name'		=> __('Whatzit')
 		  		),
 	  			'public'			=> true,
-		  		'has_archive'		=> true,
+		  		'has_archive'			=> true,
 			  	'supports'			=> array(
 		  			'title',
 		  			'editor',
