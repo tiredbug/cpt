@@ -1,7 +1,7 @@
 <?php
 
 /* 
- * Plugin Name: A Custom Post Type Plugin for Basic
+ * Plugin Name: A Custom Post Type Plugin for Basic.
  * Plugin URI: http://basoro.org/
  * Description: A simple post type that adds a way to create posts for beginner!
  * Version: 0.1
